@@ -1,0 +1,14 @@
+.body-container{
+
+    display: flex;
+    flex-direction: row;
+    width: 1240px;
+}
+
+.container-panier{
+
+
+    width: 500px;
+  height: 800px;
+  background-color: #008b48;
+}
