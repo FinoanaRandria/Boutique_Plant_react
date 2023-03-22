@@ -2,13 +2,25 @@
 
     display: flex;
     flex-direction: row;
-    width: 1240px;
+    width: 1920px;
 }
 
 .container-panier{
 
 
-    width: 500px;
+    width: 30%;
   height: 800px;
   background-color: #008b48;
+}
+
+.container-card{
+
+  width: 70%;
+}
+
+.plant-content{
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+   justify-content: center;
 }

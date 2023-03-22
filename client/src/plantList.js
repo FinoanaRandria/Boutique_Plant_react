@@ -1,4 +1,4 @@
-import im from './assets/png/plant.png'
+import im from '../src/assets/png/plant.png'
 
 export const plantListes = [
     
@@ -9,7 +9,7 @@ export const plantListes = [
     lumiere:2,
     eau:3,
     photo:im,
-    prix:8000
+    prix:65000
 
 },
 
@@ -20,7 +20,7 @@ export const plantListes = [
     lumiere:3,
     eau:1,
     photo:im,
-    prix:8000
+    prix:7000
 
 },
 
@@ -31,7 +31,7 @@ export const plantListes = [
     lumiere:2,
     eau:3,
     photo:im,
-    prix:10000
+    prix:80000
 
 },
 
@@ -66,7 +66,7 @@ export const plantListes = [
     lumiere:1,
     eau:2,
     photo:im,
-    prix:15000
+    prix:95000
 }
 
 

@@ -6,7 +6,7 @@ import {plantListes} from './plantList'
 function App() {
   return (
     <div className="App">
-      <Navbar/>
+         <Navbar/>
           <Body data={plantListes}/>
     </div>
   );
